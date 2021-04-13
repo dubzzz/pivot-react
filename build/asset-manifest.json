@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pivot-react/static/css/main.d4913081.chunk.css",
+    "main.js": "/pivot-react/static/js/main.64db9f6d.chunk.js",
+    "main.js.map": "/pivot-react/static/js/main.64db9f6d.chunk.js.map",
+    "runtime-main.js": "/pivot-react/static/js/runtime-main.26b00bef.js",
+    "runtime-main.js.map": "/pivot-react/static/js/runtime-main.26b00bef.js.map",
+    "static/js/2.2fe45c88.chunk.js": "/pivot-react/static/js/2.2fe45c88.chunk.js",
+    "static/js/2.2fe45c88.chunk.js.map": "/pivot-react/static/js/2.2fe45c88.chunk.js.map",
+    "static/js/3.1eca93c8.chunk.js": "/pivot-react/static/js/3.1eca93c8.chunk.js",
+    "static/js/3.1eca93c8.chunk.js.map": "/pivot-react/static/js/3.1eca93c8.chunk.js.map",
+    "index.html": "/pivot-react/index.html",
+    "static/css/main.d4913081.chunk.css.map": "/pivot-react/static/css/main.d4913081.chunk.css.map",
+    "static/js/2.2fe45c88.chunk.js.LICENSE.txt": "/pivot-react/static/js/2.2fe45c88.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26b00bef.js",
+    "static/js/2.2fe45c88.chunk.js",
+    "static/css/main.d4913081.chunk.css",
+    "static/js/main.64db9f6d.chunk.js"
+  ]
+}
