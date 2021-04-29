@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pivot-react/build-basic/static/css/main.d4913081.chunk.css",
+    "main.js": "/pivot-react/build-basic/static/js/main.586509f1.chunk.js",
+    "main.js.map": "/pivot-react/build-basic/static/js/main.586509f1.chunk.js.map",
+    "runtime-main.js": "/pivot-react/build-basic/static/js/runtime-main.6b924d92.js",
+    "runtime-main.js.map": "/pivot-react/build-basic/static/js/runtime-main.6b924d92.js.map",
+    "static/js/2.2fe45c88.chunk.js": "/pivot-react/build-basic/static/js/2.2fe45c88.chunk.js",
+    "static/js/2.2fe45c88.chunk.js.map": "/pivot-react/build-basic/static/js/2.2fe45c88.chunk.js.map",
+    "static/js/3.1eca93c8.chunk.js": "/pivot-react/build-basic/static/js/3.1eca93c8.chunk.js",
+    "static/js/3.1eca93c8.chunk.js.map": "/pivot-react/build-basic/static/js/3.1eca93c8.chunk.js.map",
+    "index.html": "/pivot-react/build-basic/index.html",
+    "static/css/main.d4913081.chunk.css.map": "/pivot-react/build-basic/static/css/main.d4913081.chunk.css.map",
+    "static/js/2.2fe45c88.chunk.js.LICENSE.txt": "/pivot-react/build-basic/static/js/2.2fe45c88.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b924d92.js",
+    "static/js/2.2fe45c88.chunk.js",
+    "static/css/main.d4913081.chunk.css",
+    "static/js/main.586509f1.chunk.js"
+  ]
+}

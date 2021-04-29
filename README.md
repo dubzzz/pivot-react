@@ -1,1 +1,1 @@
-https://dubzzz.github.io/pivot-react/build/index.html
+Basic: https://dubzzz.github.io/pivot-react/build-basic/index.html
