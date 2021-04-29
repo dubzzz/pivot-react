@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pivot-react/build-nestedcompos/static/css/main.d4913081.chunk.css",
+    "main.js": "/pivot-react/build-nestedcompos/static/js/main.5dadcee8.chunk.js",
+    "main.js.map": "/pivot-react/build-nestedcompos/static/js/main.5dadcee8.chunk.js.map",
+    "runtime-main.js": "/pivot-react/build-nestedcompos/static/js/runtime-main.11a72df1.js",
+    "runtime-main.js.map": "/pivot-react/build-nestedcompos/static/js/runtime-main.11a72df1.js.map",
+    "static/js/2.21563f85.chunk.js": "/pivot-react/build-nestedcompos/static/js/2.21563f85.chunk.js",
+    "static/js/2.21563f85.chunk.js.map": "/pivot-react/build-nestedcompos/static/js/2.21563f85.chunk.js.map",
+    "static/js/3.1513790c.chunk.js": "/pivot-react/build-nestedcompos/static/js/3.1513790c.chunk.js",
+    "static/js/3.1513790c.chunk.js.map": "/pivot-react/build-nestedcompos/static/js/3.1513790c.chunk.js.map",
+    "index.html": "/pivot-react/build-nestedcompos/index.html",
+    "static/css/main.d4913081.chunk.css.map": "/pivot-react/build-nestedcompos/static/css/main.d4913081.chunk.css.map",
+    "static/js/2.21563f85.chunk.js.LICENSE.txt": "/pivot-react/build-nestedcompos/static/js/2.21563f85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11a72df1.js",
+    "static/js/2.21563f85.chunk.js",
+    "static/css/main.d4913081.chunk.css",
+    "static/js/main.5dadcee8.chunk.js"
+  ]
+}
