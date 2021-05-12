@@ -1,3 +1,4 @@
 - Basic: https://dubzzz.github.io/pivot-react/build-basic/index.html
-- Nested Compos: https://dubzzz.github.io/pivot-react/build-nestedcompos/index.html
-- Nested Divs: https://dubzzz.github.io/pivot-react/build-nesteddivs/index.html
+- 100x Nested Compos: https://dubzzz.github.io/pivot-react/build-nestedcompos/index.html
+- 100x Nested Compos no state: https://dubzzz.github.io/pivot-react/build-nestedcompos-nostate/index.html
+- 100x Nested Divs: https://dubzzz.github.io/pivot-react/build-nesteddivs/index.html

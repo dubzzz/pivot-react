@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pivot-react/build-nesteddivs/static/css/main.d4913081.chunk.css",
-    "main.js": "/pivot-react/build-nesteddivs/static/js/main.daef62c1.chunk.js",
-    "main.js.map": "/pivot-react/build-nesteddivs/static/js/main.daef62c1.chunk.js.map",
+    "main.js": "/pivot-react/build-nesteddivs/static/js/main.c9aabcb1.chunk.js",
+    "main.js.map": "/pivot-react/build-nesteddivs/static/js/main.c9aabcb1.chunk.js.map",
     "runtime-main.js": "/pivot-react/build-nesteddivs/static/js/runtime-main.705f661e.js",
     "runtime-main.js.map": "/pivot-react/build-nesteddivs/static/js/runtime-main.705f661e.js.map",
     "static/js/2.f85d7021.chunk.js": "/pivot-react/build-nesteddivs/static/js/2.f85d7021.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.705f661e.js",
     "static/js/2.f85d7021.chunk.js",
     "static/css/main.d4913081.chunk.css",
-    "static/js/main.daef62c1.chunk.js"
+    "static/js/main.c9aabcb1.chunk.js"
   ]
 }

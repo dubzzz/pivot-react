@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import App from "./App_NestedDivs";
+import App from "./App_NestedCompos_NoState";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(

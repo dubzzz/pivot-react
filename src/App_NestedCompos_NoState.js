@@ -65,7 +65,6 @@ function createTable() {
 }
 
 function Cell(props) {
-  useState(props.count);
   if (props.count === undefined) {
     return <Cell {...props} count={99} />;
   }
